@@ -20,10 +20,10 @@ div#wall #tag-3.slick.wicked{
   display: none;
 }
 
-#wall {
+body div#wall div.parent div ~ div{
   display: none;
 }
 
-#wall {
+body div#wall {
   display: none;
 }
